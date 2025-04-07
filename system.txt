@@ -1,0 +1,12 @@
+PC Info:
+  System: Windows
+  Node Name: Admin
+  Release: 10
+  Version: 10.0.19044
+  Machine: AMD64
+  Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+  RAM: 4 GB
+  CPU Usage: 0.0%
+  Disk Usage: 96.9%
+  Network Info: 2402:800:6311:3803:4c49:8d1c:85d8:d89f
+

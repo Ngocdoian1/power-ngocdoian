@@ -1,0 +1,33 @@
+import os
+import sys
+import re
+import time
+import datetime
+import subprocess
+import requests
+import sqlite3
+import psutil
+import hashlib
+import random
+import json
+import logging
+import threading
+import socket
+import tempfile
+from io import BytesIO
+from time import strftime
+from urllib.parse import urlparse
+from concurrent.futures import ThreadPoolExecutor
+from datetime import date, datetime as dt
+from PIL import Image
+from bs4 import BeautifulSoup
+import telebot
+from telebot import TeleBot, apihelper, types
+from telebot.types import (
+    InlineKeyboardMarkup, InlineKeyboardButton, Message
+)
+from telegram import Update, ChatMember
+from telegram.ext import CallbackContext
+from gtts import gTTS
+import cohere
+import qrcode
